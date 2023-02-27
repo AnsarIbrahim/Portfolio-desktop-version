@@ -30,7 +30,7 @@
 **Portfolio-desktop-version** is a website that displays my Techinical skills and projects that i have done.
 
 
-**Link to online version of My Portfolio** https://ansaribrahim.github.io/Portfolio-desktop-version/
+**Link to online version of My Portfolio** is in live-demo
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,7 +78,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://ansaribrahim.github.io/Portfolio-desktop-version/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,11 +118,6 @@ In order to run this project you need:
 
 ### Deployment
 
-- You can deploy this project using this link:
-  - https://ansaribrahim.github.io/Portfolio-desktop-version/
-  
-  [OR]
-  
 - You can deploy this project using:
   - Type cd Portfolio-desktop-version
   - open index.html file in the browser
