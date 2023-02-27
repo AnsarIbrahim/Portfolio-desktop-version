@@ -30,7 +30,7 @@
 **Portfolio-desktop-version** is a website that displays my Techinical skills and projects that i have done.
 
 
-**Link to online version of My Portfolio** is in live-demo
+**Link to online version of My Portfolio** is in [Live Demo](#live-demo)
 
 ## 🛠 Built With <a name="built-with"></a>
 
