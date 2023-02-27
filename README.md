@@ -29,6 +29,9 @@
 
 **Portfolio-desktop-version** is a website that displays my Techinical skills and projects that i have done.
 
+
+**Link to online version of My Portfolio** https://ansaribrahim.github.io/Portfolio-desktop-version/
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -115,6 +118,11 @@ In order to run this project you need:
 
 ### Deployment
 
+- You can deploy this project using this link:
+  - https://ansaribrahim.github.io/Portfolio-desktop-version/
+  
+  [OR]
+  
 - You can deploy this project using:
   - Type cd Portfolio-desktop-version
   - open index.html file in the browser
